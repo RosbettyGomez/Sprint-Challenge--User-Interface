@@ -208,3 +208,8 @@ a{
 .footer {
     height: 20px;
 }
+
+/* About */
+.about{
+    border-bottom: 1px dashed black;
+}
