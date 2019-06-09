@@ -229,3 +229,20 @@ a{
     display: flex;
     width: 370px;
 }
+
+.strategy{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;}
+
+.working{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;}
+
+.office{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+.places{
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
