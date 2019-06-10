@@ -213,10 +213,13 @@ a{
 nav.footer{padding: 10px 16px;}
 
 /* About */
+.header{
+    width: 750px;
+}
 .about{
     border-bottom: 1px dashed black; 
-    padding-bottom: 20px; 
-    
+    padding-bottom: 20px;
+
 }
 
 .button {
@@ -275,4 +278,6 @@ footer nav {
     font-size: 14px;
 }
 
-nav.footer{padding: 10px 16px;}
+nav.footer{
+    padding: 10px 16px;
+}
