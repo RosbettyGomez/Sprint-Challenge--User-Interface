@@ -139,6 +139,7 @@ footer nav {
     align-items: center;
     padding: 20px 2%;
     font-size: 14px;
+    font-weight: 900;
 }
 
 footer nav a {
@@ -156,7 +157,7 @@ a{
 .nav{
     display:flex;
     justify-content:space-between;  
-    width: 800px;  
+    width: 750px;  
 }
 
 .logo{
@@ -223,6 +224,7 @@ nav.footer{padding: 10px 16px;}
     border-radius: 5px;
     padding:5px;
     width:90px;
+    font-weight: 500;
 }
 
 .top{
